@@ -321,22 +321,5 @@ Through preprocessing, model training, evaluation, and probability analysis, the
 
 Based on the evaluation metrics, the best-performing model is recommended for deployment in a real-world Message Intelligence System.
 
----
-
-# 👨‍💻 Author
-
-**Student Name:** ___________________
-
-**Enrollment Number:** ______________
-
-**College:** ________________________
-
-**Course:** _________________________
-
-**Subject:** Machine Learning
-
-**Project:** Message Intelligence System
-
----
 
 # ⭐ Thank You
